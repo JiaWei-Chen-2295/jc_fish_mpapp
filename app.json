@@ -7,7 +7,7 @@
   ],
   "usingComponents": {},
   "window": {
-    "navigationBarTextStyle": "black",
+    "navigationBarTextStyle": "white",
     "navigationBarTitleText": "MyFish",
     "navigationBarBackgroundColor": "#00b3ff",
     "backgroundColor": "#f5f5f5"
