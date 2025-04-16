@@ -1,0 +1,1 @@
+<view class="container"><view class="header"><text class="title">购物车</text></view><view class="content"><view class="cart-list"><view wx:if="{{a}}" class="empty-cart"><text>购物车是空的</text></view></view><view class="cart-footer"><view class="total-price"><text>合计：¥{{b}}</text></view><button class="checkout-btn" disabled="{{c}}"> 结算 </button></view></view></view>

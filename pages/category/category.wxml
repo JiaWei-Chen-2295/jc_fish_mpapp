@@ -1,0 +1,1 @@
+<view class="container"><view class="header"><text class="title">分类</text></view><view class="content"><view class="category-sidebar"></view><view class="category-content"></view></view></view>
